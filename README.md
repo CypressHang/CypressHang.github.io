@@ -1,4 +1,7 @@
 # CypressHang.github.io 
+<br/>
+**点击链接即可畅玩！！！**
+<br/>
 第一次发布（吃星星）： 
 
 https://cypresshang.github.io/star-catcher/     PC端
